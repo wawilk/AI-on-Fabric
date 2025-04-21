@@ -7,3 +7,6 @@ Fabric has many new AI capabilities. This repository provides a place to learn a
 * Copilots in Fabric
 * Data Wrangler
 * Multivariate Anomaly detection
+
+## Prerequisites
+In each folder there is a document with prerequisites for performing the included lab or demo

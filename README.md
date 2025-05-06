@@ -9,4 +9,4 @@ Fabric has many new AI capabilities. This repository provides a place to learn a
 * Multivariate Anomaly detection
 
 ## Prerequisites
-In each folder there is a document named prerequisites.pdf with setup instructions for performing the included lab or demo
+In each folder there is may be a document named prerequisites.pdf with additional setup instructions for performing the included lab or demo

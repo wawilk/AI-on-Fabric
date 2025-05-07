@@ -1,6 +1,6 @@
 ## AI-on-Fabric  
 ![alt text](<../Images/Accessibility Checked.jpg>)
 
-### Contact Wayne.wilkerson@microsoft.com for a link to the slide deck 
+### For issues downloading the slide deck contact Wayne.wilkerson@microsoft.com  
 or 
 for link to the original Word documents
